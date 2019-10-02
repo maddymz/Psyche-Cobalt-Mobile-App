@@ -1,0 +1,4 @@
+*.pbxproj -text
+unity/** filter=lfs diff=lfs merge=lfs -text
+unity/ filter=lfs diff=lfs merge=lfs -text
+android/UnityExport/** filter=lfs diff=lfs merge=lfs -text
