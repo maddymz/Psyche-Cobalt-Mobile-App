@@ -4,7 +4,7 @@ Scaffolding Code for Psyche Cobalt Class Mobile App cpastones
 ## Tech stack
 React Native
 
-## Affter forking/cloning the project (Required)
+## After forking/cloning the project (Required)
 To install node modules do:
 ````
 npm install 
